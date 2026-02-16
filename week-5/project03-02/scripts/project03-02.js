@@ -3,8 +3,8 @@
       Project 03-02
 
       Application to generate a slide gallery
-      Author:
-      Date:
+      Author: Jonathan Cantu
+      Date: February 15, 2026
 
       Filename: project03-02.js
 */
